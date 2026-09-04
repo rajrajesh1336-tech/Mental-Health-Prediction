@@ -68,7 +68,7 @@ Most_Used_Platform = st.selectbox(
     'WeChat']
 )
 
-Purpose_Of_Use = st.text_input(
+Purpose_Of_Use = st.selectbox(
     "Purpose Of Use",
     ['Entertainment', 'Education', 'Networking', 'News']
 )
